@@ -1,0 +1,33 @@
+﻿<Window x:Class="WBa.SimpleImageViewer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WBa.SimpleImageViewer (intro sample)" Height="490.8" Width="791.4">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <TextBox Text="C:\Users\Александр\Desktop\Новая папка\2\FISH\" x:Name="fileName" TextChanged="fileName_TextChanged"/>
+        <Image Stretch="Uniform" Grid.Column="0" x:Name="image" Grid.ColumnSpan="2" Margin="0,5.4,99.8,32" Grid.Row="1"/>
+        <StackPanel Grid.Row="0" Grid.Column="1" Grid.RowSpan="2" MinWidth="100">
+            <Button Click="OnLoad2D1">Load 2d</Button>
+            <Button Click="OnLoad2D2">Load 2d Pal</Button>
+            <Button Click="OnLoad3D1">Load 3D1</Button>
+            <Button Click="OnLoad3D2">Load 3D2</Button>
+            <Button Click="OnAccess">Access Test 1</Button>
+            <Button Click="OnAccess2">Access Test 2</Button>
+            <Button Content="Button" Click="Button_Click"/>
+        </StackPanel>
+
+        <Slider Grid.Row="2" x:Name="frames" ValueChanged="OnFrameValueChanged"/>
+        <TextBlock Grid.Row="3" Grid.Column="0" x:Name="info"/>
+        <TextBox x:Name="fileNameTwo" Grid.Row="1" TextWrapping="Wrap" Text="C:/Users/Александр/Desktop/123/File.png" TextChanged="fileNameTwo_TextChanged" VerticalAlignment="Bottom"/>
+    </Grid>
+</Window>

@@ -1,0 +1,16 @@
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\bin\Debug\WBa.SimpleImageViewer.exe.config
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\bin\Debug\WBa.SimpleImageViewer.exe
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\bin\Debug\WBa.SimpleImageViewer.pdb
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\bin\Debug\ZeissImageLib.dll
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\SimpleImageViewer.csprojAssemblyReference.cache
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\MainWindow.baml
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\MainWindow.g.cs
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\App.g.cs
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\WBa.SimpleImageViewer_MarkupCompile.cache
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\WBa.SimpleImageViewer.g.resources
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\WBa.SimpleImageViewer.Properties.Resources.resources
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\SimpleImageViewer.csproj.GenerateResource.cache
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\SimpleImageViewer.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\SimpleImageViewer.csproj.CopyComplete
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\WBa.SimpleImageViewer.exe
+C:\Users\Александр\Desktop\CZI 07-2016\SimpleImageViewer\obj\Debug\WBa.SimpleImageViewer.pdb

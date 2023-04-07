@@ -1,0 +1,36 @@
+Basic testing
+-------------
+http://czisamples.blob.core.windows.net/czi-samples/TESTIMAGES.zip
+
+Advanced testing
+----------------
+http://czisamples.blob.core.windows.net/czi-samples/Legend.txt
+
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x075_Artemia-Flash-AT-1Ch-Z-sect.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x14_GMMe_AT-4ch-Z_Dapi-Vimentin488_Phalloidine568-Lamin647(WF).czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x14_GMMe_AT-4ch-Z_Dapi-Vimentin488_Phalloidine568-Lamin647-dcv.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x14_GMMe_AT-4ch-Z_Dapi-Vimentin488_Phalloidine568-Lamin647-raw.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x14_GMMe_AT-4ch-Z_Dapi-Vimentin488_Phalloidine568-Lamin647-sect.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x_RatBrain-AT-2ch-Z-7ph-raw.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x_RatBrain-AT-2ch-Z-DCV.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x_RatBrain-AT-2ch-Z-sect.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/40x_RatBrain-AT-2ch-Z-wf.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/AxioZoom_Artemia_AT-1Ch-Z_sect.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/Kidney-FS44_FS45_ApoTome_2ch_Tiles_sect.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/Kidney-FS44_FS45_ApoTome_2ch_raw_Tiles.czi
+http://czisamples.blob.core.windows.net/czi-samples/ApoTome/Kidney-FS44_FS45_ApoTome_2ch_sect_Tiles-stitched.czi
+http://czisamples.blob.core.windows.net/czi-samples/Axio Scan.Z1/20x_HE.czi
+http://czisamples.blob.core.windows.net/czi-samples/Axio Scan.Z1/Intestine_3color_RAC.czi
+http://czisamples.blob.core.windows.net/czi-samples/Axio Scan.Z1/Kidney_40x_z_stack.czi
+http://czisamples.blob.core.windows.net/czi-samples/Axio Scan.Z1/Kidney_RAC_3color.czi
+http://czisamples.blob.core.windows.net/czi-samples/Axio Scan.Z1/Young_mouse.czi
+http://czisamples.blob.core.windows.net/czi-samples/CellObserver SD/EB3-microtubules-GFP_H2BmCherry_2chT(SD).czi
+http://czisamples.blob.core.windows.net/czi-samples/CellObserver SD/LLC-PK1_2chTZ-triggered-20msec(SD).czi
+http://czisamples.blob.core.windows.net/czi-samples/CellObserver SD/LLC-PK1_TubX-emerald_H2B-mCherry-2chZ(SD).czi
+http://czisamples.blob.core.windows.net/czi-samples/CellObserver SD/Micrasterias fimbriata#1_2chTZ(SD).czi
+http://czisamples.blob.core.windows.net/czi-samples/Multiscene/Mouse-kidney-3-scene_VivaTome_1chZS.czi
+http://czisamples.blob.core.windows.net/czi-samples/Tiles/Mouse_stomach_20x_ROI_3chZTiles(WF).czi
+http://czisamples.blob.core.windows.net/czi-samples/VivaTome/Mouse_kidney_VivaTome-1chTZ.czi
+http://czisamples.blob.core.windows.net/czi-samples/Widefield/BPAE-Cells_63x_oversampled-3chZ(WF).czi
+http://czisamples.blob.core.windows.net/czi-samples/Widefield/BPAE-cells-bin2x2_3chTZ(WF).czi
+http://czisamples.blob.core.windows.net/czi-samples/Widefield/BPAE-cells_mitosis_3chZ(WF).czi
